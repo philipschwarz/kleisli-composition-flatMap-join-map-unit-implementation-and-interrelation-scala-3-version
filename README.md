@@ -1,0 +1,2 @@
+Code for slide deck [Kleisli composition, flatMap, join, map, unit - implementation and interrelation - V2 updated for Scala 3](http://fpilluminated.com/assets/kleisli-composition-flatmap-join-map-unit-implementation-and-interrelation-v2-updated-for-scala-3.html)
+![](https://fpilluminated.s3.eu-west-2.amazonaws.com/slide-decks/2023-06-04-kleisli-composition-flatmap-join-map-unit-implementation-and-interrelation-v2-updated-for-scala-3/2023-06-04-kleisli-composition-flatmap-join-map-unit-implementation-and-interrelation-v2-updated-for-scala-3-large.png)
